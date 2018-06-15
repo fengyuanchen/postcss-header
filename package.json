@@ -3,11 +3,12 @@
   "version": "1.0.0",
   "description": "Add a header to a file.",
   "main": "index.js",
-  "license": "MIT",
   "repository": "fengyuanchen/postcss-header",
+  "homepage": "https://www.npmjs.com/package/postcss-header",
+  "license": "MIT",
   "author": {
-    "name": "Fengyuan Chen",
-    "url": "http://chenfengyuan.com"
+    "name": "Chen Fengyuan",
+    "url": "https://chenfengyuan.com"
   },
   "files": [
     "lib"
