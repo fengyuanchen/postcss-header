@@ -1,4 +1,6 @@
-# postcss-header [![Build Status](https://travis-ci.org/fengyuanchen/postcss-header.svg)](https://travis-ci.org/fengyuanchen/postcss-header)
+# postcss-header
+
+[![Build Status](https://travis-ci.org/fengyuanchen/postcss-header.svg)](https://travis-ci.org/fengyuanchen/postcss-header)  [![Downloads](https://img.shields.io/npm/dm/postcss-header.svg)](https://www.npmjs.com/package/postcss-header) [![Version](https://img.shields.io/npm/v/postcss-header.svg)](https://www.npmjs.com/package/postcss-header)
 
 > Add a header to a file.
 
@@ -34,4 +36,4 @@ The string which will be put at the beginning of the css file.
 
 ## License
 
-[MIT](http://opensource.org/licenses/MIT) © [Fengyuan Chen](http://chenfengyuan.com)
+[MIT](https://opensource.org/licenses/MIT) © [Chen Fengyuan](https://chenfengyuan.com)
