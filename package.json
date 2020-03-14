@@ -32,19 +32,19 @@
   },
   "homepage": "https://fengyuanchen.github.io/postcss-header",
   "dependencies": {
-    "@babel/core": "^7.8.4",
-    "@babel/register": "^7.8.3"
+    "@babel/core": "^7.8.7",
+    "@babel/register": "^7.8.6"
   },
   "peerDependencies": {
     "postcss": "^7.0.0"
   },
   "devDependencies": {
-    "@babel/preset-env": "^7.8.4",
+    "@babel/preset-env": "^7.8.7",
     "chai": "^4.2.0",
     "eslint": "^6.8.0",
-    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-config-airbnb-base": "^14.1.0",
     "eslint-plugin-import": "^2.20.1",
-    "mocha": "^7.0.1",
+    "mocha": "^7.1.0",
     "postcss": "^7.0.27"
   }
 }
