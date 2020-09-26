@@ -1,5 +1,9 @@
 # Changelog
 
+## 3.0.1 (Sep 26, 2020)
+
+- Add missing entry file for ES Module.
+
 ## 3.0.0 (Sep 26, 2020)
 
 - Support ES Module.
