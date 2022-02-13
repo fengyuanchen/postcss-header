@@ -1,6 +1,6 @@
 const postcss = require('postcss');
 const { expect } = require('chai');
-const header = require('./index.js');
+const header = require('./index');
 
 it('should contain the given header', () => {
   const options = {
