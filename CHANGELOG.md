@@ -1,5 +1,9 @@
 # Changelog
 
+## 3.0.2 (Feb 13, 2022)
+
+- Drop deprecated `postcss.plugin` function.
+
 ## 3.0.1 (Sep 26, 2020)
 
 - Add missing entry file for ES Module.

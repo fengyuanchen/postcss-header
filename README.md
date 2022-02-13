@@ -1,6 +1,6 @@
 # postcss-header
 
-[![Build Status](https://img.shields.io/travis/fengyuanchen/postcss-header.svg)](https://travis-ci.org/fengyuanchen/postcss-header)  [![Downloads](https://img.shields.io/npm/dm/postcss-header.svg)](https://www.npmjs.com/package/postcss-header) [![Version](https://img.shields.io/npm/v/postcss-header.svg)](https://www.npmjs.com/package/postcss-header)
+[![Downloads](https://img.shields.io/npm/dm/postcss-header.svg)](https://www.npmjs.com/package/postcss-header) [![Version](https://img.shields.io/npm/v/postcss-header.svg)](https://www.npmjs.com/package/postcss-header)
 
 > Add a header to a file.
 
@@ -32,7 +32,7 @@ console.log(result);
 - Default: `''`
 - Alias: banner
 
-The string which will be put at the beginning of the css file.
+The string will be put at the beginning of the CSS file.
 
 ## Versioning
 
