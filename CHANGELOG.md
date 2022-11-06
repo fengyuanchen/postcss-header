@@ -1,5 +1,9 @@
 # Changelog
 
+## 3.0.3 (Nov 6, 2022)
+
+- Use `OnceExit` instead of `Once`.
+
 ## 3.0.2 (Feb 13, 2022)
 
 - Drop deprecated `postcss.plugin` function.
